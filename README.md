@@ -1,0 +1,2 @@
+# CoinShop
+Shop for coins
